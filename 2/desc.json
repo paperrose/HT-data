@@ -1,0 +1,11 @@
+﻿{
+	"id": 2,
+	"name": "Park Inn by Radisson Прибалтийская",
+	"address": "Улица Кораблестроителей 14",
+	"stars": 4.0,
+	"distance": 150,
+	"suites_availability": "3:4:5",
+	"lat": 59.9388817,
+	"lon": 30.2125303,
+	"image": "SPB_ParkInn.jpg"
+}
