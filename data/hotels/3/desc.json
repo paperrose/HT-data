@@ -7,5 +7,22 @@
 	"suites_availability": "",
 	"lat": 59.9463524,
 	"lon": 30.3453624,
-	"image": "no_image.jpg"
+	"images": [
+		{
+			"id" : 8,
+			"url" : "SPB_Tchaikovskogo.jpg"
+		},
+		{
+			"id" : 9,
+			"url" : "SPB_Tchaikovskogo_double.jpg"
+		},
+		{
+			"id" : 10,
+			"url" : "SPB_Tchaikovskogo_kingsize.jpg"
+		},
+		{
+			"id" : 11,
+			"url" : "no_image.jpg"
+		}
+	]
 }

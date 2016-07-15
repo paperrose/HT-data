@@ -7,5 +7,22 @@
 	"suites_availability": "1:2",
 	"lat": 59.9323436,
 	"lon": 30.3507942,
-	"image": "SPB_Corintia.jpg"
+	"images": [
+		{
+			"id" : 1,
+			"url" : "SPB_Corintia.jpg"
+		},
+		{
+			"id" : 2,
+			"url" : "SPB_Corintia_double_bed.jpg"
+		},
+		{
+			"id" : 3,
+			"url" : "SPB_Corintia_lux.jpg"
+		},
+		{
+			"id" : 4,
+			"url" : "SPB_Corintia_single.jpg"
+		}
+	]
 }

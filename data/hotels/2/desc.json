@@ -7,5 +7,18 @@
 	"suites_availability": "3:4:5",
 	"lat": 59.9388817,
 	"lon": 30.2125303,
-	"image": "SPB_ParkInn.jpg"
+	"images": [
+		{
+			"id" : 5,
+			"url" : "SPB_ParkInn.jpg"
+		},
+		{
+			"id" : 6,
+			"url" : "SPB_ParkInn_double.jpg"
+		},
+		{
+			"id" : 7,
+			"url" : "SPB_ParkInn_single.jpg"
+		}
+	]
 }
